@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋 I'm a computational scientist and high-performance computing code developer
+- 🔭 I’m pursuing my PhD on scalable algorithm development for large-scale plasma physics problems
+- 🌱 I’m currently working on [PUMImbbl-GPU](https://github.com/SCOREC/pumiMBBL), a GPU-performant compact anisotropic structured mesh library for particle-in-cell codes
+
+[![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickyragav95)](https://github.com/anuraghazra/github-readme-stats)
+
+Visit my [website](https://vickyragav95.github.io/) and [linkedin](https://www.linkedin.com/in/vickyragav95/)
 
 <!--
 **vickyragav95/vickyragav95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
